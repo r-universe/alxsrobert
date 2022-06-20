@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "o2geosocial"]
+	path = o2geosocial
+	url = https://github.com/alxsrobert/o2geosocial
+	shallow = true
+	registered = true
